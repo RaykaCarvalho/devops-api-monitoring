@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # devops-api
 
 Projeto DevOps completo que demonstra habilidades em CI/CD, Docker, Terraform, Prometheus e Grafana.
@@ -13,3 +14,6 @@ Projeto DevOps completo que demonstra habilidades em CI/CD, Docker, Terraform, P
 ```bash
 docker build -t devops-api .
 docker run -p 5000:5000 devops-api
+=======
+# devops-api-monitoring
+>>>>>>> c2c726ce9a61f85ce752352028a901c7a6b5b92b
